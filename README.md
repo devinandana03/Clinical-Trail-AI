@@ -1,6 +1,11 @@
 # AI Clinical Trial Protocol Generator
 
 This project generates clinical trial protocols using AI and regulatory guidelines.
+## UI
+(ui_screenshot/input_ui_1.png)
+(ui_screenshot/output_ui_1.png)
+(ui_screenshot/output_ui_2.png)
+(ui_screenshot/output_ui_3.png)
 
 ## Features
 
