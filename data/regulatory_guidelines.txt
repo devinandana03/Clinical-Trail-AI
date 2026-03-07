@@ -1,0 +1,11 @@
+Clinical trials must follow ethical and regulatory guidelines.
+
+Key requirements:
+
+1. Define clear objectives and endpoints.
+2. Specify inclusion and exclusion criteria.
+3. Ensure patient safety monitoring.
+4. Maintain informed consent procedures.
+5. Follow Good Clinical Practice (GCP).
+6. Include statistical analysis plans.
+7. Ensure proper trial randomization and control groups.
