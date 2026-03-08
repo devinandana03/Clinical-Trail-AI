@@ -6,7 +6,7 @@ This project generates clinical trial protocols using AI and regulatory guidelin
 
 ### Output Screens
 
-![](ui_screenshot/input_ui_1.png)
+
 
 ![](ui_screenshot/output_ui_1.png)
 
